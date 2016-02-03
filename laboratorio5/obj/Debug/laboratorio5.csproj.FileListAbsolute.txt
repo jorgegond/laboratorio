@@ -1,0 +1,36 @@
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\bin\Debug\laboratorio5.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Form1.resources
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Properties.Resources.resources
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.exe
+c:\users\programacion\documents\visual studio 2013\Projects\laboratorio5\laboratorio5\obj\Debug\laboratorio5.pdb
+H:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe.config
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.exe
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.pdb
+H:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe
+H:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.pdb
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csprojResolveAssemblyReference.cache
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Form1.resources
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Properties.Resources.resources
+H:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csproj.GenerateResource.Cache
+F:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe.config
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.exe
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.pdb
+F:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe
+F:\laboratorio5\laboratorio5\bin\Debug\laboratorio5.pdb
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csprojResolveAssemblyReference.cache
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Form1.resources
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Properties.Resources.resources
+F:\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe.config
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.exe
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.pdb
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\bin\Debug\laboratorio5.pdb
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Form1.resources
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Properties.Resources.resources
+C:\Users\Jorge\Desktop\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csproj.GenerateResource.Cache
